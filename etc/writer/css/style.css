@@ -1,0 +1,29 @@
+html { 
+  background: url(https://download.unsplash.com/photo-1423683249427-8ca22bd873e0) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header {
+    background-color: rgba(255, 255, 255, 0.37);
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 99%;
+    height: 75px;
+    position: absolute;
+    display: block;
+}
+
+.search {
+    vertical-align: middle;
+    display: block;
+    position: inherit;
+    width: 99%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 75%;
+    margin-top: auto;
+}
